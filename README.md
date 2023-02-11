@@ -38,3 +38,6 @@
 ---
 ## 🌎 [Download](https://mrm.tebex.io/package/5521198) :
 > You can free download the script from my **[Tebex Store](https://mrm.tebex.io/package/5521198)**.
+
+---
+> Inspired by @Rufi 🤍
