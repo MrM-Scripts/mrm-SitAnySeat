@@ -1,4 +1,4 @@
-# **Sit on any vehicle seat** 🚗💺 | Standalone-FiveM-Script
+# **Sit on any vehicle seat** 🚗💺 | Free-FiveM-Script
 ### Do you have to wait until driver get-in to the vehicle? 🚗😕
 
 ### Because otherwise your player get-in to the driving seat? No Worries! 🕺🏼 I got you.
@@ -22,7 +22,7 @@
 ## Installation 🐌
 
 ```
-- download the script from my tebex.store (link down below ↓)
+- free download the script from my tebex.store (link down below ↓)
 - unzip the file → mrm-SitAnySeat
 - place it somewhere in your server's resource folder
 ```
@@ -37,7 +37,7 @@
 
 ---
 ## 🌎 [Download](https://mrm.tebex.io/package/5521198) :
-> You can download the script from my **[Tebex Store](https://mrm.tebex.io/package/5521198)**.
+> You can free download the script from my **[Tebex Store](https://mrm.tebex.io/package/5521198)**.
 
 ---
 > Inspired by @Rufi 🤍
